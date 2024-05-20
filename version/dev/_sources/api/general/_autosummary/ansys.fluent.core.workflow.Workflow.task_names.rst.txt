@@ -1,0 +1,6 @@
+task\_names
+===========
+
+.. currentmodule:: ansys.fluent.core.workflow
+
+.. automethod:: Workflow.task_names

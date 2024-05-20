@@ -1,0 +1,25 @@
+ansys.fluent.core.meshing.meshing\_workflow.WorkflowMode
+========================================================
+
+.. currentmodule:: ansys.fluent.core.meshing.meshing_workflow
+
+.. autoclass:: WorkflowMode
+
+   
+
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~WorkflowMode.CLASSIC_MESHING_MODE
+      ~WorkflowMode.WATERTIGHT_MESHING_MODE
+      ~WorkflowMode.FAULT_TOLERANT_MESHING_MODE
+      ~WorkflowMode.TWO_DIMENSIONAL_MESHING_MODE
+      ~WorkflowMode.TOPOLOGY_BASED_MESHING_MODE
+   
+   

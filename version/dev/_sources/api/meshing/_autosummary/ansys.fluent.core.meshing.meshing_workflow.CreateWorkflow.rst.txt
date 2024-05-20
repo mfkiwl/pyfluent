@@ -1,0 +1,37 @@
+ansys.fluent.core.meshing.meshing\_workflow.CreateWorkflow
+==========================================================
+
+.. currentmodule:: ansys.fluent.core.meshing.meshing_workflow
+
+.. autoclass:: CreateWorkflow
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      ~CreateWorkflow.__init__
+      ~CreateWorkflow.child_task_python_names
+      ~CreateWorkflow.create
+      ~CreateWorkflow.delete_tasks
+      ~CreateWorkflow.inactive_tasks
+      ~CreateWorkflow.load_state
+      ~CreateWorkflow.save_workflow
+      ~CreateWorkflow.task
+      ~CreateWorkflow.task_names
+      ~CreateWorkflow.tasks
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~CreateWorkflow.insertable_tasks
+   
+   

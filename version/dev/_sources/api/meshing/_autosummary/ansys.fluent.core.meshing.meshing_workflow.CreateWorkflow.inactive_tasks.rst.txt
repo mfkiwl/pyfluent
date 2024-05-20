@@ -1,0 +1,6 @@
+inactive\_tasks
+===============
+
+.. currentmodule:: ansys.fluent.core.meshing.meshing_workflow
+
+.. automethod:: CreateWorkflow.inactive_tasks

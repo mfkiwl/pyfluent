@@ -1,0 +1,14 @@
+.. _ref_solver_datamodel_flicing_Case_App_Airflow_Fluent_Materials:
+
+Materials
+=========
+
+.. autoclass:: ansys.fluent.core.generated.datamodel_241.flicing.Root.Case.App.Airflow.Fluent.Materials
+   :members: AirCp, AirCpConstant, AirDensity, AirDensityConstant, AirThermalConductivity, AirThermalConductivityConstant, AirViscosity, AirViscosityConstant, SettingsSync
+   :show-inheritance:
+   :undoc-members:
+   :exclude-members: __weakref__, __dict__
+   :special-members: __init__
+   :autosummary:
+   :autosummary-members:
+

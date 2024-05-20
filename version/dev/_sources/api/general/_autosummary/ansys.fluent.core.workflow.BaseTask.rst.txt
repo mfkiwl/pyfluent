@@ -1,0 +1,43 @@
+ansys.fluent.core.workflow.BaseTask
+===================================
+
+.. currentmodule:: ansys.fluent.core.workflow
+
+.. autoclass:: BaseTask
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      ~BaseTask.__init__
+      ~BaseTask.add_child_to_task
+      ~BaseTask.child_task_python_names
+      ~BaseTask.delete
+      ~BaseTask.display_name
+      ~BaseTask.get_direct_downstream_tasks
+      ~BaseTask.get_direct_upstream_tasks
+      ~BaseTask.get_id
+      ~BaseTask.get_idx
+      ~BaseTask.inactive_tasks
+      ~BaseTask.insert_compound_child_task
+      ~BaseTask.python_name
+      ~BaseTask.rename
+      ~BaseTask.task_names
+      ~BaseTask.tasks
+      ~BaseTask.update_child_tasks
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~BaseTask.insertable_tasks
+   
+   
