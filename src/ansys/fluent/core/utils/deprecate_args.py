@@ -3,9 +3,11 @@
 import functools
 import warnings
 
+from ansys.fluent.core.warnings import PyFluentDeprecationWarning
+
 
 def deprecate_argument(
-    old_arg, new_arg, converter, deprecation_class=DeprecationWarning
+    old_arg, new_arg, converter, deprecation_class=PyFluentDeprecationWarning
 ):
     """Warns user that the argument provided is deprecated, and automatically replaces
     the deprecated argument with the appropriate new argument."""
